@@ -27,6 +27,7 @@
   }
   .nav-links ul {
     flex-direction: column;
+    margin-right:20px;
   }
 
   .examples-area {
